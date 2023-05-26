@@ -10,7 +10,7 @@ body {
     font-family: Creepster, Verdana;
     font-weight: 400;
     background-color: #29202c;
-    color: #a3988e;
+    color: rgb(163, 152, 142);
 }
 
 header {
@@ -23,10 +23,10 @@ h2 {
     font-family: Creepster, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #a3988e;
+    color: rgb(163, 152, 142);
 }
 
-p {
+h3, p {
     font-family: Lato;
     font-weight: 300;
     color: #f4f5f1
@@ -41,6 +41,7 @@ p {
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
+    font-family: Lato, sans-serif;
 }
 
 #menu,
@@ -56,14 +57,15 @@ p {
 
 #menu a {
     text-decoration: none;
+    color: rgb(163, 152, 142);
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #a3988e;
+    border-bottom: 1px solid rgb(163, 152, 142);
 }
 
 .active {
-    border-bottom: 1px solid #a3988e;
+    border-bottom: 1px solid rgb(163, 152, 142);
 }
 
 #hero-image {
@@ -140,7 +142,7 @@ p {
 }
 
 hr {
-    border-top: 1px solid #a3988e;
+    border-top: 1px solid rgb(163, 152, 142);
     width: 100%;
     margin: 5px 0;
 }
@@ -193,7 +195,7 @@ hr {
     float: left;
     padding: 30px 0 0 10px;
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid rgb(163, 152, 142);
     box-sizing: border-box;
 }
 
