@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Lato:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Creepster, Verdana;
+    font-weight: 400;
+    background-color: #29202c;
+    color: #a3988e;
+}
+
+header {
+    background-color: #87423c;
+    color: #af847a;
+}
+
+h1,
+h2 {
+    font-family: Creepster, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #a3988e;
+}
+
+p {
+    font-family: Lato;
+    font-weight: 300;
+    color: #f4f5f1
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 30px;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu,
+#logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #a3988e;
+}
+
+.active {
+    border-bottom: 1px solid #a3988e;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/livro-abert.jpg') no-repeat center center;
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+#cover-text,
+#cover-text h2 {
+    color: #af847a;
+}
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: Lato, sans-serif;
+    /*mudar essa fonte?*/
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(135, 66, 60, .9);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+}
+
+#club-ethos {
+    width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+}
+
+#left-about {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+    padding-bottom: 50px;
+}
+
+hr {
+    border-top: 1px solid #a3988e;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.left-about-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #87423c;
+    border-radius: 50%;
+    border-width: 1px;
+    margin: 0 auto;
+}
+
+#circle-cover-bg {
+    background: url('../images/caneca.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#find {
+    background-image: url('../images/hp2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#find div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, .6);
+    width: 50%;
+    height: 200px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+#find h2 {
+    color: #fafafa;
+}
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks>li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #87423c;
+}
+
+@media screen and (max-width: 1200px) {
+    #club-ethos {
+        width: 100%;
+        height: auto;
+        margin-bottom: 0px;
+        
+    }
+
+    #welcome {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    .left-about-heading {
+        width: 100%;
+        float: left;
+        
+    }
+    #left-about {
+        width: 80%;        
+        float:left;
+        clear:both;
+        margin-bottom: 0px;
+        padding-left: 50px;
+        padding-right: 50px;
+
+    }
+
+    #right-about {
+        clear:both;
+        width: 100%;
+        float: left;
+        margin-bottom: 50px;
+        
+    } 
+    
+
+    hr {
+        display: none;
+    }
+}
