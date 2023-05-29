@@ -229,17 +229,6 @@ footer {
     color: #87423c;
 }
 
-/*#photos {
-    clear: both;
-    line-height: 0;
-    column-count: 4;
-    column-gap: 0;
-}
-
-#photos > a > img {
-    width: 100%;
-}*/
-
 .mural {
     display: flex;
     flex-wrap: wrap;
@@ -273,6 +262,20 @@ footer {
 #chapters h2 {
     text-align: center;
     margin-top: 50px;
+}
+
+#me {
+    height: 700px;
+    width: 80%;
+    overflow: hidden;
+    position: relative;
+    margin-left: 100px;
+}
+
+#me h2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: -30px;
 }
 
 @media screen and (max-width: 1200px) {
