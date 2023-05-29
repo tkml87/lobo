@@ -21,10 +21,19 @@ h2 {
     color: rgb(163, 152, 142);
 }
 
-h3, p {
+h3 {
     font-family: Lato;
     font-weight: 300;
-    color: #f4f5f1
+    color: #af847a;
+    font-weight: bolder;
+}
+
+p {
+    font-family: Lato;
+    font-weight: 300;
+    color: rgb(163, 152, 142);
+    font-weight: bolder;
+    text-align: justify;
 }
 
 #logo {
@@ -37,6 +46,7 @@ h3, p {
     font-size: 110%;
     letter-spacing: 4px;
     font-family: Lato, sans-serif;
+    font-weight: bolder;
 }
 
 #menu,
@@ -66,7 +76,7 @@ h3, p {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../images/livro-abert.jpg') no-repeat center center;
+    background: url('../images/livro-abert.webp') no-repeat center center;
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -74,7 +84,7 @@ h3, p {
 
 #cover-text,
 #cover-text h2 {
-    color: #af847a;
+    color: #f4f5f1;
 }
 
 #hero-outer {
@@ -141,10 +151,6 @@ hr {
     margin: 5px 0;
 }
 
-p {
-    text-align: justify;
-}
-
 .left-about-heading {
     width: 60%;
     float: right;
@@ -171,13 +177,13 @@ p {
 }
 
 #circle-cover-bg {
-    background: url('../images/caneca.jpg') no-repeat center center;
+    background: url('../images/caneca.webp') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
 
 #find {
-    background-image: url('../images/hp2.jpg');
+    background-image: url('../images/hp2.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
