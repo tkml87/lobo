@@ -13,11 +13,6 @@ body {
     color: rgb(163, 152, 142);
 }
 
-header {
-    background-color: #87423c;
-    color: #af847a;
-}
-
 h1,
 h2 {
     font-family: Creepster, sans-serif;
@@ -103,7 +98,6 @@ h3, p {
 #cover-text {
     font-size: 130%;
     font-family: Lato, sans-serif;
-    /*mudar essa fonte?*/
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -211,7 +205,7 @@ footer {
     text-align: center;
 }
 
-.social-networks>li {
+.social-networks > li {
     display: inline;
 }
 
@@ -220,6 +214,39 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #87423c;
+}
+
+/*#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photos > a > img {
+    width: 100%;
+}*/
+
+.mural {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.foto {
+    width: 20%;
+    height: 0;
+    padding-bottom: 20%;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.foto img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 @media screen and (max-width: 1200px) {
@@ -235,11 +262,6 @@ footer {
         margin: 0;
     }
 
-    .left-about-heading {
-        width: 100%;
-        float: left;
-        
-    }
     #left-about {
         width: 80%;        
         float:left;
@@ -258,7 +280,7 @@ footer {
         
     } 
     
-    #times>div {
+    #find > div {
         width: 100%;
         clear: both;
         height: 150px;
@@ -279,6 +301,10 @@ footer {
         line-height: 25px;
     }
 
+    #cover-text {
+        left: 0;
+    }
+
     #club-ethos {
         width: 90%;
         height: 1200px;
@@ -297,6 +323,10 @@ footer {
 
     .left-about-heading p {
         text-align: center;
-        padding: - 20px;
+        padding: 0 20px;
     }
+
+    /*#photos {
+        column-count: 3;
+    }*/
 }
