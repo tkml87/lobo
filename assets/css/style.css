@@ -354,12 +354,12 @@ footer {
 
 @media screen and (max-width: 768px) {
         #menu {
-        font-size: 65%;
+        font-size: 180%;
         clear: left;
         float: left;
         margin-left: 30px;
         margin-bottom: 20px;
-        line-height: 25px;
+        line-height: 45px;
     }
 
     #cover-text {
@@ -395,66 +395,6 @@ footer {
 
     .mural-container {
         height: 900px;
-        overflow: auto;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    #menu {
-        font-size: 180%;    
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 10px;
-        line-height: 45px;
-    }
-
-    #logo {
-        float: left;
-        font-size: 200%;
-    }
-
-    #hero-image {
-        height: 600px;
-        width: 100%;
-        background: url('../images/livro-abert.webp') no-repeat center center;
-        animation-name: hero-zoom;
-        animation-duration: 1s;
-        animation-fill-mode: forwards;
-
-    #cover-text {
-        left: 0;
-    }
-
-    #club-ethos {
-        width: 90%;
-        height: 1000px;
-        margin: 0 auto;
-    }
-
-    .left-about-heading {
-        width: inherit;
-    }
-
-    .left-about-heading,
-    h2 {
-        width: 100%;
-        text-align: center;
-    }
-
-    .left-about-heading p {
-        text-align: center;
-        padding: 0 20px;
-    }
-    
-    .photo {
-        width: 32%;
-        padding-bottom: 32%;
-        margin-bottom: 5px;
-    }
-
-    .mural-container {
-        height: 600px;
         overflow: auto;
     }
 }
