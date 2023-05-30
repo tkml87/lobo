@@ -310,13 +310,24 @@ footer {
 }
 
 #error-page {
-    height: 1100px;
+    height: 72px;
     width: 85%;
     overflow: hidden;
     position: relative;
-    margin-top: 150px;
-    margin-bottom: 150px;
-    margin-left: 100px;
+    padding-top: 80px;
+    margin-bottom: 225px;
+    margin-left: 97px;
+    text-align: center;
+    line-height: 20px;
+}
+
+#error-page h2 {
+    text-align: center;
+    line-height: 30px;
+}
+
+#error-page p {
+    text-align: center;
 }
 
 @media screen and (max-width: 1200px) {
@@ -463,6 +474,30 @@ footer {
         line-height: 1.5;
         padding: 0 20px 0 0;   
     }
+
+    #error-page {
+            height: 465px;
+            width: 86%;
+            overflow: hidden;
+            position: relative;
+            padding-top: 100px;
+            margin-bottom: 54px;
+            margin-left: 47px;
+            text-align: center;
+            line-height: 43px;
+    }
+
+    #error-page h2 {
+        text-align: center;
+        line-height: 30px;
+        font-size: 40px;
+    }
+
+    #error-page p {
+        text-align: center;
+        font-size: 25px;
+    }
+
 }
 
 @media screen and (max-width: 320px) {
@@ -552,5 +587,26 @@ footer {
         font-size: 18px;
         line-height: 1.5;
         padding: 0 20px 0 0;
+    }
+
+    #error-page {
+        height: 128px;
+        width: 70%;
+        overflow: hidden;
+        position: relative;
+        padding-top: 35px;
+        margin-bottom: 62px;
+        margin-left: 47px;
+        text-align: center;
+        line-height: 20px;
+    }
+
+    #error-page h2 {
+        text-align: center;
+        line-height: 30px;
+    }
+
+    #error-page p {
+        text-align: center;
     }
 }
