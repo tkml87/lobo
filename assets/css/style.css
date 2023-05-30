@@ -374,7 +374,7 @@ footer {
 }
 
 .text-input:hover {
-    border-color: #87423c;
+    border-color: #29292c;
 }
 
 .join-button {
@@ -383,14 +383,14 @@ footer {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #87423c;
+    background-color: #29292c;
     color: #f4f5f1;
     display: block;
 }
 
 .join-button:hover {
-    background-color: #f4f5f1;
-    color: #87423c;
+    background-color: #a3988e;
+    color: #29292c;
 }
 
 @media screen and (max-width: 1200px) {
