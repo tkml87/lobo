@@ -371,6 +371,30 @@ footer {
     hr {
         display: none;
     }
+
+    #error-page {
+        height: 375px;
+        width: 85%;
+        overflow: hidden;
+        position: relative;
+        padding-top: 80px;
+        margin-left: 97px;
+        text-align: center;
+        line-height: 40px;
+    }
+
+    #error-page h2 {
+        text-align: center;
+        line-height: 128px;
+        font-size: 48px;
+    }
+
+    #error-page p {
+        text-align: center;
+        font-size: 38px;
+        line-height: 101px;     
+    }
+
 }
 
 @media screen and (max-width: 768px) {
