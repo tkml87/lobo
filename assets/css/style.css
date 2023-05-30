@@ -353,13 +353,15 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-        #menu {
-        font-size: 180%;
+    #menu {
+        font-size: 150%;
         clear: left;
-        float: left;
+        float: right;
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 45px;
+        display: flex;
+        flex-direction: column-reverse;
     }
 
     #cover-text {
@@ -385,6 +387,8 @@ footer {
     .left-about-heading p {
         text-align: center;
         padding: 0 20px;
+        font-size: 150%;
+        line-height: 30px;
     }
 
     .photo {
@@ -396,5 +400,11 @@ footer {
     .mural-container {
         height: 900px;
         overflow: auto;
+    }
+
+    .text p {
+        font-size: 24px;
+        line-height: 1.5;
+        padding: 0 60px 0 0;   
     }
 }
