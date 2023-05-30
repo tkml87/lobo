@@ -368,10 +368,35 @@ footer {
         left: 0;
     }
 
+    #circle-container {
+        width: 200px;
+        height: 200px;
+        padding: 30px;
+        border-style: solid;
+        border-color: #87423c;
+        border-radius: 50%;
+        border-width: 1px;
+        margin: 0 auto;
+    }
+
+    #circle-cover-bg {
+        background: url('../images/caneca2.webp') no-repeat center center;
+        height: 100%;
+        border-radius: 50%;
+    }
+
     #club-ethos {
         width: 90%;
         height: 1200px;
         margin: 0 auto;
+    }
+
+    #left-about {
+        width: 80%;
+        float: left;
+        clear: both;
+        margin-bottom: 0px;
+        padding-left: 23px;
     }
 
     .left-about-heading {
@@ -382,12 +407,12 @@ footer {
     h2 {
         width: 100%;
         text-align: center;
+        font-size: 140%;
     }
 
     .left-about-heading p {
         text-align: center;
-        padding: 0 20px;
-        font-size: 150%;
+        font-size: 90%;
         line-height: 30px;
     }
 
@@ -402,9 +427,17 @@ footer {
         overflow: auto;
     }
 
+    #me {
+        height: 3640px;
+        width: 69%;
+        overflow: hidden;
+        position: relative;
+        margin-left: 70px;
+    }
+
     .text p {
-        font-size: 24px;
+        font-size: 18px;
         line-height: 1.5;
-        padding: 0 60px 0 0;   
+        padding: 0 20px 0 0;   
     }
 }
