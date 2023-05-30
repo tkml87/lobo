@@ -309,6 +309,16 @@ footer {
     height: 100%;
 }
 
+#error-page {
+    height: 1100px;
+    width: 85%;
+    overflow: hidden;
+    position: relative;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-left: 100px;
+}
+
 @media screen and (max-width: 1200px) {
     #club-ethos {
         width: 100%;
