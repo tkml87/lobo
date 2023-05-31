@@ -84,9 +84,11 @@ Given the dark atmosphere of a forest, where young werewolves receive their know
 For the same reason, the fonts were chosen accordingly: Creepster to bring suspense in the headings and Lato to make the paragraphs more reader-friendly, since the first font is too heavy for reading long texts.
 
 ![Font Creepster](assets/images/readme/creep.webp)
+
 [Source](https://fonts.google.com/specimen/Creepster)
 
 ![Font Lato](assets/images/readme/lato.webp)
+
 [Source](https://fonts.google.com/specimen/Lato)
 
 ### Imagery
@@ -114,17 +116,17 @@ The home page of Howling Books displays the phrase "Welcome to the Howling Books
 ### The Chapters Page
 
 The Chapters page displays the phrase "Welcome to the Howling Books" as a title and has a sub-title indicating that here you can find the released chapters as a photo gallery in which each picture links the user to its own chapter.
-![Chapters Page](assets/image/readme/chap.webp)
+![Chapters Page](assets/images/readme/chap.webp)
 
 ### The About Me page
 
 The About Me page displays the site's name as a title. It also contains a text about the owner and not the character he portrays during the readings and how he got to do the project. It also has an AI-generated image of a wolf pup with a tophat reading a book.
-![About me Page](assets/image/readme/about.webp)
+![About me Page](assets/images/readme/about.webp)
 
 ### The 404 error page
 
 The 404 error page also displays the site's name as a title. Within the page container, there is a message explaining to the users that there has a directing error to the page they were looking for. So them can return to the requested page through the three buttons that redirect them to other pages on the site: the Home page, the About Me page, and the Chapters page.
-![The error Page](assets/image/readme/error.webp)
+![The error Page](assets/images/readme/error.webp)
 
 ### The Interactive application form page
 
