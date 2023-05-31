@@ -17,9 +17,6 @@ Visit the deployed site: [Howling Books](https://tkml87.github.io/project-portfo
   - [CONTENTS](#contents)
   - [AUTOMATED TESTING](#automated-testing)
     - [W3C Validator](#w3c-validator)
-      - [**URI Input**](#uri-input)
-      - [**Direct Input**](#direct-input)
-      - [**CSS Validation**](#css-validation)
     - [Lighthouse](#lighthouse)
     - [WAVE](#wave)
   - [MANUAL TESTING](#manual-testing)
@@ -49,39 +46,21 @@ W3C was used to validate the HTML on all pages of the website. It was also used 
 
 [about.html](https://validator.w3.org/nu/?showoutline=yes&doc=https%3A%2F%2Ftkml87.github.io%2Fproject-portfolio-1%2Fabout.html) - Passed.
 
-[form.html]() - No errors, 1 Warning. The warning is for an empty H2 tag. This is where the question is inserted using jQuery.
+[form.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftkml87.github.io%2Fproject-portfolio-1%2Fform.html) - Passed.
 
-[404.html] - Passed.
+[404.html](https://validator.w3.org/nu/?showoutline=yes&doc=https%3A%2F%2Ftkml87.github.io%2Fproject-portfolio-1%2F404.html) - Passed.
 
 500.html - Passed.
 
-style.css - Passed, no errors found.
+[style.css](https://www.dropbox.com/s/j04u2josif4wy5u/css.PNG?dl=0) - Passed, no errors found.
 
-#### **URI Input**
-
-If you validate with your sites URL, you can run the validation and then copy the link from the address bar and insert the link here as your proof of validation.
-
-![W3C URI Validator](documentation/milestone1-testing/w3c-uri-validatation.png)
-
-#### **Direct Input**
-
-If you validate with the code, you will need to screenshot the validation results and then link the image here.
-
-![W3C Direct Input Validator](documentation/milestone1-testing/w3c-directinput-validation.png)
-
-#### **CSS Validation**
-
-CSS Validation can only be done by copying and pasting the CSS file contents into the direct input. Make sure that the checkbox for CSS is selected.
-
-![W3C CSS Validation](documentation/milestone1-testing/w3c-css-validation.png)
 
 ### Lighthouse
 
-👩🏻‍💻 View an example of a completed lighthouse testing section [here](https://github.com/kera-cudmore/earth-day-hackathon-2022/blob/main/TESTING.md#Lighthouse)
+I used Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
 
-Lighthouse Testing is part of the Chrome Developer Tools. For more information on how to use this tool, please visit [chrome Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en#:~:text=Lighthouse%20is%20an%20open%2Dsource,how%20well%20the%20page%20did.).
-
-You will need to run the Lighthouse testing on each individual page of your site, for desktop as a minimum. If you have time it would be great to also add in the mobile testing.
+_Desktop Results_
+All pages of the site are achieving a score of 100 across the 4 categories.
 
 ![Lighthouse Testing](documentation/milestone1-testing/lighthouse.png)
 
