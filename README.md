@@ -4,7 +4,7 @@
 
 This website intends to inform the audience about new releases and news about the podcast as the reason why it might get an episode delayed or any announcement that needs to be made to the audience.
 
-![General vision of my website in many types of screens]('assets/readme/index.webp')
+![General vision of my website in many types of screens](assets/images/readme/index.webp)
 [amiresponsive](https://ui.dev/amiresponsive?url=https://tkml87.github.io/project-portfolio-1/) 
 
 <https://tkml87.github.io/project-portfolio-1/>
