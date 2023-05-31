@@ -62,53 +62,7 @@ Key information for the site:
 
 ### User Stories
 
-The follow comments were extracted from Author's Spotify:
-
-*(1º episode)*
-"Eu tenho o livro, e é tão interessante acompanhar a leitura junto com o áudio kkkk. Muito brigada" (I have the book, and it's so interesting to follow the reading along with the audio kkkk. thank you very much).
-
-"Áudiolivro maravilhoso. Voltei a minha adolescência ouvindo esse livro. Trabalho ótimo."(Wonderful audiobook. I went back to my teenage years listening to this book. great job).
-
-*(3ºepisode)*
-"Muito obrigada por tudo!! Eu tenho que fazer uma prova desse livro e eu não estava nem a metade vc me salvou". (Thank you for everything!! I have to take a test on this book and I wasn't even halfway there you saved me).
-
-*(6ºepisode)*
-"Olá! Eu já tinha lido os livros, mas resolvi escutar teu áudio, porque gosto muito dessa literatura. Estou adorando! Você me faz imaginar todo o tempo! Muito bom teu trabalho! Obrigada". (Hello! I had already read the books, but I decided to listen to your audio, because I really like this literature. I'm loving it! You make me wonder all the time! Very good your work! Thanks).
-
-"Está ótima sua leitura, adoro sua voz e é muito bom pra me ajudar a ficar pois não consigo ler em completo silêncio. Me acalma muito!" (Your reading is great, I love your voice and it's very good to help me stay because I can't read in complete silence. Calms me down a lot!)
-
-"Eu estou amando, continue fazendo, vc faz com uma emoção Ótima". (I'm loving it, keep doing it, you do it with great emotion).
-
-*(9º episode)*
-"Auuuuuuuuu (boa noite)". (*Howling* (Good night)).
-
-*(10º Episode)*
-"Muito obrigado pela leitura, gosto de ouvir a história durante meu trabalho." (Thank you very much for reading, I like to hear the story during my work.).
-
-"Muito bem feito o conteúdo, parabéns. Já estou ansioso para ouvir mais" (Very well done content, congratulations. I'm already looking forward to hearing more).
-
-*(16º episode)*
-"Por puro tédio no serviço encontrei o seu perfil terça feira e desde estão estão acompanhando, atrasada, as leituras de PJ. Gosto do modo como você altera a voz e coloca sons". (Out of sheer boredom at work, I found your profile on Tuesday and since then you've been following, late, PJ's readings. I like the way you change the voice and put sounds.)
-
-"Oii Boa noite!! Eu tô amando ouvir os livros, eu li eles a alguns anos atrás, tá incrível Continue assim 😸" (Hi, good evening!! I'm loving listening to the books, I read them a few years ago, it's amazing Keep it up 😸).
-
-"A voz dela ficou ótima, adorei o jeito que ela fez, caiu muito bem pra personagem. Gosto muito da sua narração e das vozes que você faz também. Parabéns aos dois e obrigada pelo trabalho maravilhoso." (Her voice was great, I loved the way she did it, it suited the character very well. I really like your narration and the voices you do too. Congratulations to both of you and thank you for the wonderful work.)
-
-"A troll dos livros mandou muito bem, ainda não ouvi o resto dos capítulo, mas espero que ela se torne mais presente 😁😁😁" (The book troll did a great job, I haven't heard the rest of the chapters yet, but I hope she becomes more present 😁😁😁).
-
-"Ótima colaboração, enriqueceu a leitura com uma nova voz e transmitiu bem os sentimentos da personagem". (Great collaboration, enriched the reading with a new voice and conveyed the character's feelings well.).
-
-"A participação dela enriqueceu a narração, que já é muito boa. E também te ajuda a não forçar muito suas cordas vocais, né amigo". (Her participation enriched the narration, which is already very good. And it also helps you not to force your vocal cords too much. right friend?).
-
-*(25º episode)*
-"Você é simplesmente o melhor narrador! eu juro. você consegue realmente nos trazer pra dentro do universo". (you are simply the best narrator! I swear. you can really bring us into the universe.).
-
-"Olá perdão, mas por favor esse ep foi tão incrível Wolf, irei te dar esse apelido kkkk, você consegue trazer para o ouvinte a emoção e noção de imaginação de todos os personagens, velho vc é perfeito!" (Hello sorry, but please this ep was so amazing Wolf, I'll give you that nickname kkkk, you manage to bring to the listener the emotion and notion of imagination of all the characters, old man you are perfect!).
-
-*(31º episode)*
-"Ouço todos os episódios parabéns pelo trabalho,a vinheta da Afrodite ficou muito boa kkk" (I listen to all the episodes congratulations on the work, Aphrodite's vignette was very good lol).
-
-"Ganhei meu dia vendo que você levou em consideração meu comentário anterior sobre o National Mall que fica em Washington DC". (It made my day seeing that you took into account my previous comment about the National Mall in Washington DC).
+The Author asked me for a dramatic webpage, with illustrations of wolves and thing that bring audio rememberance. Dark colors, books and a page to talk about his reasons and lifestyle. He found the site good enough for his beginner's journey, but changes are in sight. Other users were not consulted before the launching.
 
 ## Design
 
