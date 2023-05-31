@@ -52,4 +52,4 @@ I used Lighthouse within the Chrome Developer Tools to test the performance, acc
 _Desktop Results_
 All pages of the site are achieving a score of more than 90% across the 4 categories.
 
-![Lighthouse Testing](https://www.dropbox.com/s/l77ye1k3y2d6qly/light-all.png?dl=0)
+![Lighthouse Testing](assets/images/readme/light-all.png)
