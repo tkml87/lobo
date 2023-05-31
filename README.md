@@ -4,7 +4,8 @@
 
 This website intends to inform the audience about new releases and news about the podcast as the reason why it might get an episode delayed or any announcement that needs to be made to the audience.
 
- [amiresponsive](https://ui.dev/amiresponsive?url=https://tkml87.github.io/project-portfolio-1/) 
+![General vision of my website in many types of screens]('assets/readme/index.webp')
+[amiresponsive](https://ui.dev/amiresponsive?url=https://tkml87.github.io/project-portfolio-1/) 
 
 <https://tkml87.github.io/project-portfolio-1/>
 
@@ -54,7 +55,7 @@ Howling Books is an audio-sharing project that makes books more accessible for p
 The owner does have a full-time job and other daily matters and is in a distant timezone, and occasionally may not post the weekly update to the podcast.
 
 Key information for the site:
-- What are the current book and the chapters uploaded
+- What are the current book and the chapters uploaded.
 - What will be the next book.
 - How to help the podcast by participating in the reading voicing over a character.
 - A way for people to contact the book club with questions and recommendations.
