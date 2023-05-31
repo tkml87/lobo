@@ -18,8 +18,6 @@ Visit the deployed site: [Howling Books](https://tkml87.github.io/project-portfo
   - [AUTOMATED TESTING](#automated-testing)
     - [W3C Validator](#w3c-validator)
     - [Lighthouse](#lighthouse)
-  - [BUGS](#bugs)
-    - [Known Bugs](#known-bugs)
 
 All during the build, testing was ongoing. While developing, I used the developer tools in Chrome to identify and fix any problems as they arose.
 
@@ -47,7 +45,6 @@ W3C was used to validate the HTML on all pages of the website. It was also used 
 
 [style.css](https://www.dropbox.com/s/j04u2josif4wy5u/css.PNG?dl=0) - Passed, no errors found.
 
-
 ### Lighthouse
 
 I used Lighthouse within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
@@ -56,9 +53,3 @@ _Desktop Results_
 All pages of the site are achieving a score of more than 90% across the 4 categories.
 
 ![Lighthouse Testing](https://www.dropbox.com/s/l77ye1k3y2d6qly/light-all.png?dl=0)
-
-## BUGS
-
-### Known Bugs
-
-No known bugs so far.

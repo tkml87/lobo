@@ -5,7 +5,7 @@
 This website intends to inform the audience about new releases and news about the podcast as the reason why it might get an episode delayed or any announcement that needs to be made to the audience.
 
 ![General vision of my website in many types of screens](assets/images/readme/index.webp)
-[Source](https://ui.dev/amiresponsive?url=https://tkml87.github.io/project-portfolio-1/) 
+[Source](https://ui.dev/amiresponsive?url=https://tkml87.github.io/project-portfolio-1/)
 
 Visit the deployed site: [Howling Books](https://tkml87.github.io/project-portfolio-1)
 
@@ -22,11 +22,11 @@ Visit the deployed site: [Howling Books](https://tkml87.github.io/project-portfo
     - [Typography](#typography)
     - [Imagery](#imagery)
   - [Features](#features)
-      - [The Home Page](#the-home-page)
-      - [The Chapters Page](#the-chapters-page)
-      - [The About Me page](#the-about-me-page)
-      - [The 404 error page](#the-404-error-page)
-      - [The Interactive application form page](#the-interactive-application-form-page)
+    - [The Home Page](#the-home-page)
+    - [The Chapters Page](#the-chapters-page)
+    - [The About Me page](#the-about-me-page)
+    - [The 404 error page](#the-404-error-page)
+    - [The Interactive application form page](#the-interactive-application-form-page)
     - [General features on each page](#general-features-on-each-page)
     - [Future Implementations](#future-implementations)
     - [Accessibility](#accessibility)
@@ -54,10 +54,15 @@ Howling Books is an audio-sharing project that makes books more accessible for p
 The owner does have a full-time job and other daily matters and is in a distant timezone, and occasionally may not post the weekly update to the podcast.
 
 Key information for the site:
+
 - What are the current book and the chapters uploaded.
+
 - What will be the next book.
+
 - How to help the podcast by participating in the reading voicing over a character.
+
 - A way for people to contact the book club with questions and recommendations.
+
 - Updates on what is coming to the podcast.
 
 ### User Stories
@@ -87,32 +92,42 @@ For the same reason, the fonts were chosen accordingly: Creepster to bring suspe
 ### Imagery
 
 All the images used are from one of these sources:
+
 - Public Repository.
+
 - Google search.
+
 - AI generated images, as [Dall-E](https://labs.openai.com/).
+
 - Official medias or web pages of the book read.
+
 When none of these 3 options, the image used is linked to the source and the signature is always left visible when present.
 
 ## Features
 
 The website comprises the "Home" page, the "Chapters" page, the "About Me" page, and a "404 error" page. The "Home" page has a link to an interactive application form page in "the Project" section.
 
-#### The Home Page
+### The Home Page
+
 The home page of Howling Books displays the phrase "Welcome to the Howling Books" as a title and then a section that holds a text summarizing what the project is about. Below this the links to social media and the platforms where the project is posted.
 
-#### The Chapters Page
+### The Chapters Page
+
 The Chapters page displays the phrase "Welcome to the Howling Books" as a title and has a sub-title indicating that here you can find the released chapters as a photo gallery in which each picture links the user to its own chapter.
 ![Chapters Page](assets/image/readme/chap.webp)
 
-#### The About Me page
+### The About Me page
+
 The About Me page displays the site's name as a title. It also contains a text about the owner and not the character he portrays during the readings and how he got to do the project. It also has an AI-generated image of a wolf pup with a tophat reading a book.
 ![About me Page](assets/image/readme/about.webp)
 
-#### The 404 error page
+### The 404 error page
+
 The 404 error page also displays the site's name as a title. Within the page container, there is a message explaining to the users that there has a directing error to the page they were looking for. So them can return to the requested page through the three buttons that redirect them to other pages on the site: the Home page, the About Me page, and the Chapters page.
 ![The error Page](assets/image/readme/error.webp)
 
-#### The Interactive application form page
+### The Interactive application form page
+
 A book consists of a magical world of characters and plots. The author cannot always perform at his best with the voices necessary to tell a good story. To solve this, within "The Project" section on the home page, there is a link that teleports users to a form that asks for some contact information and the character the user would like to play together with the author in the next book they might narrate together.
 ![The Form Page](assets/images/readme/form.webp)
 
@@ -121,8 +136,10 @@ A book consists of a magical world of characters and plots. The author cannot al
 All Pages on the website are responsive and have:
 
 - A [favicon](https://favicon.io/emoji-favicons/wolf) in the browser tab.
-* The title of the site at the top of every page. This title also acts as a link back to the home page.
-* Also the footer of the site at the bottom of every page. It has icons that redirect the user to the social media webpages.
+
+- The title of the site at the top of every page. This title also acts as a link back to the home page.
+
+- Also the footer of the site at the bottom of every page. It has icons that redirect the user to the social media webpages.
 
 ### Future Implementations
 
@@ -142,12 +159,18 @@ HTML and CSS were used to create this website.
 
 ### Frameworks, Libraries & Programs Used
 
-* Git - For version control.
+- Git - For version control.
+
 - [Github](https://github.com/) - To save and store the files for the website.
-* [Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
+
+- [Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
+
 - [Font Awesome](https://fontawesome.com/search?o=r&m=free) - For the iconography on the website.
-* Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+
+- Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+
 - [Favicon.io](Favicon.io) To create favicon.
+
 - [Am I Responsive?](https://ui.dev/amiresponsive) To show the website image on a range of devices.
 
 ## Deployment & Local Development
@@ -189,7 +212,7 @@ To clone the repository:
 
 ## Testing
 
-*ver o que vai por*
+Access [here](testing.md).
 
 ## Credits
 
@@ -229,4 +252,4 @@ I would like to acknowledge the following people:
 
 [Luís Eduardo H. de F. Pereira](https://www.linkedin.com/in/luis-pereira-9b425452/) - My beloved husband and best friend.
 
-[Andreia D'Alessandro](https://www.linkedin.com/in/andreia-dalessandro/) - A friend that is by my side no matter what.
+[Andreia D'Alessandro](https://www.linkedin.com/in/andreia-dalessandro/) Thank you.
